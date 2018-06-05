@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1528196069 source:c:\users\andre\desktop\projectad\greedy_algorithm\activities.c
+	<stdlib.h>
+	<time.h>
+	"activities.h"
+
+1528196069 c:\users\andre\desktop\projectad\greedy_algorithm\activities.h
+
+1528199079 source:c:\users\andre\desktop\projectad\greedy_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"activities.h"
+	"print.h"
+	"sort.h"
+
+1528196069 c:\users\andre\desktop\projectad\greedy_algorithm\print.h
+	"activities.h"
+
+1528196069 c:\users\andre\desktop\projectad\greedy_algorithm\sort.h
+	"activities.h"
+
+1528198863 source:c:\users\andre\desktop\projectad\greedy_algorithm\print.c
+	<stdio.h>
+	"print.h"
+
+1528199320 source:c:\users\andre\desktop\projectad\greedy_algorithm\select_activities.c
+	<stdio.h>
+	"sort.h"
+	"select_activities.h"
+
+1528196069 c:\users\andre\desktop\projectad\greedy_algorithm\select_activities.h
+	"activities.h"
+
+1528196069 source:c:\users\andre\desktop\projectad\greedy_algorithm\sort.c
+	<stdio.h>
+	"sort.h"
+
